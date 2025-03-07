@@ -1,0 +1,13 @@
+.nav-tabs::-webkit-scrollbar {
+    display: none; /* Sembunyikan scrollbar */
+}
+
+.container-carousel{
+    max-width: 98%; /* Mengatur lebar maksimal */
+    margin: auto;   /* Membuatnya tetap di tengah */
+}
+
+.carousel img {
+    height: 700px; /* Sesuaikan tinggi sesuai kebutuhan */
+    object-fit: cover; /* Memotong gambar agar pas */
+}
